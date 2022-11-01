@@ -1,0 +1,27 @@
+.home-outer{
+  padding: 0px 50px;
+}
+.header-outer{
+  display: flex;
+  flex-direction: row;
+}
+.logo-size{
+  height: 50px;
+  width: 50px;
+}
+.user-list-outer table{
+  width: 80%;
+}
+.user-list-outer table tr{
+  border-bottom: 1px solid #DFE0EB;
+}
+.user-list-outer table tr td{
+  padding: 10px 0px;
+}
+.view-btn{
+  background: #F12B2C;
+  border-radius: 100px;
+  color: #fff;
+  border: none;
+  padding: 0px 10px;
+}

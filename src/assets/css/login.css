@@ -1,0 +1,28 @@
+.login-outer{
+  display: flex;
+  flex-direction: row;
+}
+.login-left-outer{
+  display: flex;
+  flex: 0.5;
+  justify-content: center;
+  align-items: center;
+}
+.login-right-outer{
+  flex: 0.5;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.login-right-inner{
+  text-align: left;
+  min-width: 40%;
+}
+.login-btn{
+  background: #04C45C;
+  border-radius: 5px;
+  padding: 12px;
+  width: 100%;
+  border: none;
+  color: #fff;
+}
